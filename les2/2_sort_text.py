@@ -13,3 +13,5 @@ def rem_vowel(string):
 # Driver program
 string = "Python is funita"
 rem_vowel(string)
+
+string = 'Test'
