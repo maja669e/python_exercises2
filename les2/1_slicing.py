@@ -28,3 +28,7 @@ print('TASK 8:', list[1:5])
 print('TASK 9:', list[1:4])
 
 
+# -1 tager sidste plads i arrayet
+# [x:y] x er hvor vi vælger at starte i arrayet, og y er hvor vi vil slutte arrayet. 
+# Dog eksluderer vi dette objekt og de efterfølgende objekter
+
